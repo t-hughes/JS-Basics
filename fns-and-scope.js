@@ -11,6 +11,9 @@ function isTyler(name) {
   }
   return false;
 }
+
+//G: Perfecto.
+
 //////////////////PROBLEM 2////////////////////
 
 
@@ -21,6 +24,7 @@ function isTyler(name) {
   function getName() {
     return prompt('What is your name?');
   }
+//G: Perfecto.
 
 //////////////////PROBLEM 3////////////////////
 
@@ -34,6 +38,7 @@ function isTyler(name) {
     var name = getName();
     alert('Welcome, ' + name);
   }
+//G: Perfecto.
 
 //////////////////PROBLEM 4////////////////////
 
@@ -43,7 +48,9 @@ function isTyler(name) {
 //What is the difference between arguments and parameters?
 
   //Answer Here
-
+  
+  //G: AHHHHH WHERES THE ANSWER?!?!?!?!?!??!?!?!??!?!?!??!?!?!??!?!?!?!?!??!?!?!?!??????
+  //G: :)
 
 //////////////////PROBLEM 5////////////////////
 
@@ -56,7 +63,8 @@ function isTyler(name) {
  /*
  0 , Null , undefined , NaN , false , ""
  */
-
+ 
+//G: Awww yiiisssss.
 
 //////////////////PROBLEM 6////////////////////
 
@@ -68,7 +76,7 @@ function isTyler(name) {
   function myName() {
     return 'Talon';
   }
-
+//G: Best name in class award 2016.
 
 //Now save the function definition of myName into a new variable called newMyName
 
@@ -77,6 +85,7 @@ function isTyler(name) {
 //Now alert the result of invoking newMyName
   alert(newMyName());
 
+//G: Nailed it.
 
 //////////////////PROBLEM 7////////////////////
 
@@ -90,9 +99,13 @@ function outerFn() {
     return 'Talon';
   }
 }
+//G: Perfecto.
+
 //Now save the result of invoking outerFn into a variable called innerFn.
 
   //Code Here
   var innerFn = outerFn();
 //Now invoke innerFn.
   innerFn();
+
+//G: Crushed it man. You DID miss a question though. FIX IT NAO!
