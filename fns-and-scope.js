@@ -48,7 +48,7 @@ function isTyler(name) {
 //What is the difference between arguments and parameters?
 
   //Answer Here
-  
+  Parameters are the words in the () before a function opens its curly brackets. They are part of the methods signature. Arguments are the data that are called to replace the parameter when a method is called.
   //G: AHHHHH WHERES THE ANSWER?!?!?!?!?!??!?!?!??!?!?!??!?!?!??!?!?!?!?!??!?!?!?!??????
   //G: :)
 
@@ -63,7 +63,7 @@ function isTyler(name) {
  /*
  0 , Null , undefined , NaN , false , ""
  */
- 
+
 //G: Awww yiiisssss.
 
 //////////////////PROBLEM 6////////////////////
